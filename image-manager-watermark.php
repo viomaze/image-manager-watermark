@@ -10,7 +10,7 @@ if (!defined('ABSPATH')) exit;
 
 // 1. 上传/扫描目录（请确保存在并有写权限）
 function imgmgr_get_target_dir() {
-    return '/home/html/antsneakers.com/public_html/tools/img/'; // 记得最后加斜杠
+    return '/home/html/xxx.com/public_html/tools/img/'; // 记得最后加斜杠
 }
 
 // 2. 水印图片路径（需为png，建议透明，放同目录下）
